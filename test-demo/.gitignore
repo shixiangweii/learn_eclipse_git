@@ -1,4 +1,11 @@
 /target/
-/.classpath
-/.project
-/.springBeans
+
+/.settings
+
+.project
+.springBeans
+.classpath
+
+/test-demo.iml
+
+/.idea
